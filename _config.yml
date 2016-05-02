@@ -1,0 +1,28 @@
+name: Timothyleelandscapedesign
+favicon: null
+layout_spectrum: 0.6157205258496106
+typography_spectrum: 0.22399371583014727
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5966676666866988
+  lightness: 0.9212697877082974
+  saturation: 0.5657584681175649
+  rhythmicContrast: 0.7281646190676838
+purpose: []
